@@ -1,12 +1,20 @@
-# Hi there, I'm Angga Setiawan 👋
-Welcome to my GitHub profile! I'm a passionate developer specializing in front-end and back-end technologies. 
+# Hello, I'm [Your Name]! 👋
 
-- 🌱 Currently learning: React, TypeScript
-- 💼 [LinkedIn](https://linkedin.com/in/anggasetiawan10) | [Website](https://angsahitam10.github.io)
+🎓 I’m a [Your Position or Field]  
+🌱 Currently learning: [Technologies or Skills]  
+💬 Ask me about: [Relevant Topics]  
+📫 How to reach me: [Your Email or LinkedIn]
 
-## 🛠 Technologies & Tools
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+## 🛠 Tech Stack
+- Programming Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Python](https://img.shields.io/badge/-Python-blue)
+- Frontend Development: ![React](https://img.shields.io/badge/-React-blue) ![HTML](https://img.shields.io/badge/-HTML-orange)
+- Backend Development: ![Node.js](https://img.shields.io/badge/-Node.js-green)
+- Database: ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen) ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+## 📂 Projects
+- [**Project Name 1**](https://github.com/yourusername/project1): Short description of your project.
+- [**Project Name 2**](https://github.com/yourusername/project2): Short description of your project.
