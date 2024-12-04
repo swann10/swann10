@@ -74,6 +74,34 @@ I'm a seasoned professional in the fields of **Financial Services** and **Hospit
 
 ---
 
+### Projects
+
+### 1. CrossFi Testnet
+- **Role:** Validator/Node Operator
+- **Verification Link:** [CrossFi Testnet Validator](https://testnet.crossfi.explorers.guru/validator/mxvaloper1x7d6xs9w6mgtkujgt9dqu8sk8wwdaltpzygvhk)
+
+### 2. Dymension Testnet
+- **Role:** Validator/Node Operator
+- **Verification Link:** [Dymension Testnet Validator](https://froopyland.explorers.guru/validator/dymvaloper1ew76dnmq0lexd909drctvpkadw00dfk7xn0u2m)
+
+### 3. Celestia
+- **Role:** Validator/Node Operator
+- **Verification Link:** [Celestia Validator](https://testnet.celestia.explorers.guru/validator/celestiavaloper1c58x4mfphqz8lvfwvjr75sdcqlx3s92cae4f7l)
+
+### 4. Router Testnet
+- **Role:** Validator/Node Operator
+- **Verification Link:** [Router Testnet Validator](https://testnet.router.explorers.guru/validator/routervaloper19072peeuaauckzdzvqzsgj9sdk9z0jfaalg9l4)
+
+### 5. Kroma
+- **Role:** Validator/Node Operator
+- **Verification Link:** [Kroma Validator](https://blockscout.kroma.network/address/0x0F10462845953d90719A78FD12a2d103541D3214)
+
+### 6. Mantra Chain
+- **Role:** Validator/Node Operator
+- **Verification Link:** [Mantra Chain Validator](https://testnet.mantra.explorers.guru/validator/mantravaloper1d85jtwyk6axycqzz6z8n0dsak7t9wdykxv98vp)
+
+---
+
 ### 🌐 Connect with Me
 - **Email**: [anggas2101@gmail.com](mailto:anggas2101@gmail.com)
 - **LinkedIn**: [Angga Setiawan](https://www.linkedin.com/in/anggasetiawan10/)
