@@ -74,7 +74,7 @@ I'm a seasoned professional in the fields of **Financial Services** and **Hospit
 
 ---
 
-### Projects
+### 💻 Blockchain Projects
 
 ### 1. CrossFi Testnet
 - **Role:** Validator/Node Operator
@@ -111,7 +111,46 @@ Thank you for visiting my profile! Feel free to connect and reach out if you're 
 
 
 ## 🛠 Tech Stack
-- Programming Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Python](https://img.shields.io/badge/-Python-blue)
-- Frontend Development: ![React](https://img.shields.io/badge/-React-blue) ![HTML](https://img.shields.io/badge/-HTML-orange)
-- Backend Development: ![Node.js](https://img.shields.io/badge/-Node.js-green)
-- Database: ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen) ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+### Programming Languages
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- ![Python](https://img.shields.io/badge/-Python-blue)
+- ![Java](https://img.shields.io/badge/-Java-red)
+- ![C++](https://img.shields.io/badge/-C++-blue)
+
+### Frontend Development
+- ![React](https://img.shields.io/badge/-React-blue)
+- ![HTML](https://img.shields.io/badge/-HTML-orange)
+- ![CSS](https://img.shields.io/badge/-CSS-blue)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)
+
+### Backend Development
+- ![Node.js](https://img.shields.io/badge/-Node.js-green)
+- ![Express.js](https://img.shields.io/badge/-Express.js-black)
+- ![Django](https://img.shields.io/badge/-Django-green)
+
+### Database
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
+- ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+
+### Cloud & DevOps
+- ![AWS](https://img.shields.io/badge/-AWS-orange)
+- ![Docker](https://img.shields.io/badge/-Docker-blue)
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue)
+
+### Tools & Technologies
+- ![Git](https://img.shields.io/badge/-Git-orange)
+- ![GitHub](https://img.shields.io/badge/-GitHub-black)
+- ![Jenkins](https://img.shields.io/badge/-Jenkins-blue)
+- ![Postman](https://img.shields.io/badge/-Postman-orange)
+
+### AIGC & AI Technologies
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-blue)
+- ![PyTorch](https://img.shields.io/badge/-PyTorch-red)
+- ![OpenAI](https://img.shields.io/badge/-OpenAI-yellow)
+
+---
+### 📝 Certifications
+- [Certification Name 1](link-to-certification) - Description
+- [Certification Name 2](link-to-certification) - Description
+- [Certification Name 3](link-to-certification) - Description
