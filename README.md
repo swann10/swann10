@@ -52,8 +52,40 @@ I'm a seasoned professional in the fields of **Financial Services** and **Hospit
 ---
 
 ### 📜 Certifications
-- **Certified Marketing Analyst (CMA)**  
-  *American Academy of Project Management (AAPM)*
+## American Academy of Project Management (AAPM) Certification
+• Certified Marketing Analyst| AAPM | 2024 | Credentials
+
+## Google Certification
+• Google Cybersecurity Professional Certificate | Google | 2024 | Credentials
+
+## HackerRank Certification
+Role Certificate
+• Frontend Developer (React) Certificate | HackerRank | 2024 | Credentials
+• Software Engineer Certificate | HackerRank | 2024 | Credentials
+Skills Certificate
+• Angular Certificate | HackerRank | 2024 | Credentials
+• C# Certificate | HackerRank | 2024 | Credentials
+• CSS Certificate | HackerRank | 2024 | Credentials
+• Go Certificate | HackerRank | 2024 | Credentials
+• Java Certificate | HackerRank | 2024 | Credentials
+• JavaScript Certificate | HackerRank | 2024 | Credentials
+• Node Certificate | HackerRank | 2024 | Credentials
+• Problem Solving Certificate | HackerRank | 2024 | Credentials
+• Python Certificate| HackerRank | 2024 | Credentials
+• React Certificate | HackerRank | 2024 | Credentials
+• Rest API Certificate| HackerRank | 2024 | Credentials
+• SQL Certificate| HackerRank | 2024 | Credentials
+
+## Linkedin Certification
+• Business Analysis Foundations Certificate | Linkedin | 2024 | Credentials
+• Digital Marketing Foundations Certificate | Linkedin | 2024 | Credentials
+
+## Microsoft Certification
+• Microsoft Public Relations and Communications Associate Professional Certificate | Microsoft |
+2024 | Credentials
+
+## Shanghai Jiao Tong University Certification
+• Mandarin Chinese Specialization Certificate | Shanghai Jiao Tong University | 2024 | Credentials
 
 ---
 
@@ -102,14 +134,6 @@ I'm a seasoned professional in the fields of **Financial Services** and **Hospit
 
 ---
 
-### 🌐 Connect with Me
-- **Email**: [anggas2101@gmail.com](mailto:anggas2101@gmail.com)
-- **LinkedIn**: [Angga Setiawan](https://www.linkedin.com/in/anggasetiawan10/)
-- **Telegram**: @swann10
-
-Thank you for visiting my profile! Feel free to connect and reach out if you're interested in collaborating on projects or discussing opportunities.
-
-
 ## 🛠 Tech Stack
 ### Programming Languages
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
@@ -150,7 +174,10 @@ Thank you for visiting my profile! Feel free to connect and reach out if you're 
 - ![OpenAI](https://img.shields.io/badge/-OpenAI-yellow)
 
 ---
-### 📝 Certifications
-- [Certification Name 1](link-to-certification) - Description
-- [Certification Name 2](link-to-certification) - Description
-- [Certification Name 3](link-to-certification) - Description
+
+### 🌐 Connect with Me
+- **Email**: [anggas2101@gmail.com](mailto:anggas2101@gmail.com)
+- **LinkedIn**: [Angga Setiawan](https://www.linkedin.com/in/anggasetiawan10/)
+- **Telegram**: @swann10
+
+Thank you for visiting my profile! Feel free to connect and reach out if you're interested in collaborating on projects or discussing opportunities.
