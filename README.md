@@ -132,6 +132,10 @@ Skills Certificate
 - **Role:** Validator/Node Operator
 - **Verification Link:** [Mantra Chain Validator](https://testnet.mantra.explorers.guru/validator/mantravaloper1d85jtwyk6axycqzz6z8n0dsak7t9wdykxv98vp)
 
+### 7. Namada
+- **Role:** Validator/Node Operator
+- **Verification Link:** [Namada Pilots Validator](https://forum.namada.net/t/final-scores-for-the-shielded-expedition/859)
+
 ---
 
 ## 🛠 Tech Stack
@@ -178,6 +182,6 @@ Skills Certificate
 ### 🌐 Connect with Me
 - **Email**: [anggas2101@gmail.com](mailto:anggas2101@gmail.com)
 - **LinkedIn**: [Angga Setiawan](https://www.linkedin.com/in/anggasetiawan10/)
-- **Telegram**: @swann10
+- **Telegram**: [@swann10](https://t.me/swann10)
 
 Thank you for visiting my profile! Feel free to connect and reach out if you're interested in collaborating on projects or discussing opportunities.
