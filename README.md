@@ -53,39 +53,39 @@ I'm a seasoned professional in the fields of **Financial Services** and **Hospit
 
 ### 📜 Certifications
 ## American Academy of Project Management (AAPM) Certification
-• Certified Marketing Analyst| AAPM | 2024 | Credentials
+- [Certified Marketing Analyst](https://drive.google.com/file/d/1kHoUMW_QA9WIewl-sFYK_A71VIRfeJg8/view?usp=sharing)
 
 ## Google Certification
-• Google Cybersecurity Professional Certificate | Google | 2024 | Credentials
+- [Google Cybersecurity Professional Certificate](https://coursera.org/verify/professional-cert/BEGDXG2M2332)
 
 ## HackerRank Certification
 Role Certificate
-• Frontend Developer (React) Certificate | HackerRank | 2024 | Credentials
-• Software Engineer Certificate | HackerRank | 2024 | Credentials
+- [Frontend Developer](https://www.hackerrank.com/certificates/iframe/9accb9b567d1)
+- [Software Engineer Certificate](https://www.hackerrank.com/certificates/iframe/cfb7eefc841a)
+
 Skills Certificate
-• Angular Certificate | HackerRank | 2024 | Credentials
-• C# Certificate | HackerRank | 2024 | Credentials
-• CSS Certificate | HackerRank | 2024 | Credentials
-• Go Certificate | HackerRank | 2024 | Credentials
-• Java Certificate | HackerRank | 2024 | Credentials
-• JavaScript Certificate | HackerRank | 2024 | Credentials
-• Node Certificate | HackerRank | 2024 | Credentials
-• Problem Solving Certificate | HackerRank | 2024 | Credentials
-• Python Certificate| HackerRank | 2024 | Credentials
-• React Certificate | HackerRank | 2024 | Credentials
-• Rest API Certificate| HackerRank | 2024 | Credentials
-• SQL Certificate| HackerRank | 2024 | Credentials
+- [Angular Certificate](https://www.hackerrank.com/certificates/iframe/59cec3b90568)
+- [C# Certificate](https://www.hackerrank.com/certificates/iframe/d2a9372bb99f)
+- [CSS Certificate](https://www.hackerrank.com/certificates/iframe/494cd658e944)
+- [GO Certificate](https://www.hackerrank.com/certificates/iframe/384d21c64b72)
+- [Java Certificate](https://www.hackerrank.com/certificates/iframe/56a177cff7d5)
+- [Javascript Certificate](https://www.hackerrank.com/certificates/iframe/4b0ca39b4b76)
+- [Node Certificate](https://www.hackerrank.com/certificates/iframe/d8a91c679677)
+- [Problem Solving Certificate](https://www.hackerrank.com/certificates/iframe/3f6ae46d02da)
+- [Python Certificate](https://www.hackerrank.com/certificates/iframe/78d2cbb02d95)
+- [React Certificate](https://www.hackerrank.com/certificates/iframe/5605c04c73eb)
+- [Rest API Certificate](https://www.hackerrank.com/certificates/iframe/ce35c0dae80a)
+- [SQL Certificate](https://www.hackerrank.com/certificates/iframe/7a1cd091a665)
 
 ## Linkedin Certification
-• Business Analysis Foundations Certificate | Linkedin | 2024 | Credentials
-• Digital Marketing Foundations Certificate | Linkedin | 2024 | Credentials
+- [Business Analysis Foundations Certificate](https://www.linkedin.com/learning/certificates/26628305dae1dc6e85a6e5a4678bb163c001f5cd9bfb9d3074ceca137046a609?trk=share_certificate)
+- [Digital Marketing Foundations Certificate](https://www.linkedin.com/learning/certificates/47fda3be0d7731f24a7743698e497b061f77072e080cc0abb7060cc03393ae6c?trk=share_certificate)
 
 ## Microsoft Certification
-• Microsoft Public Relations and Communications Associate Professional Certificate | Microsoft |
-2024 | Credentials
+- [Microsoft Public Relations and Communications Associate Professional Certificate](https://coursera.org/verify/specialization/SZGNE0I8VY3Y)
 
 ## Shanghai Jiao Tong University Certification
-• Mandarin Chinese Specialization Certificate | Shanghai Jiao Tong University | 2024 | Credentials
+- [Mandarin Chinese Specialization Certificate](https://coursera.org/verify/specialization/SZGNE0I8VY3Y)
 
 ---
 
