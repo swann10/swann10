@@ -148,6 +148,14 @@ Skills Certificate
 - **Role:** Validator/Node Operator
 - **Verification Link:** [Nibiru Mainnet Validator](https://nibiru.explorers.guru/validator/nibivaloper158d3mfde400qfsx3qwjzhnq7qn9v48l734a8hq)
 
+### 11. Hemi Mining Testnet 
+- **Role:** Miner/Node Operator
+- **Verification Link:** [Hemi Mining Testnet](https://testnet.popstats.hemi.network/pubkey/02720B30C60B64EFC93E932F6278CDA33A8FB5EA83D687721783B0D6E35D2D3760.html)
+
+### 11. Spheron Fizz Node Testnet 
+- **Role:** Validator/Node Operator
+- **Verification Link:** [Sphereon Fizz Testnet](https://fizz.spheron.network/0x6caaf7df8647bc76bbc159b917665eeb533c8be8/dashboard)
+
 ---
 
 ## 🛠 Tech Stack
