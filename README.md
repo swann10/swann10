@@ -4,14 +4,14 @@ I'm a seasoned professional in the fields of **Financial Services** and **Hospit
 
 ---
 ### 📤 Table of Contents
-- ![🎓 Education](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-education)
-- ![💼 Work Experience](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-work-experience)
-- ![🛠 Skills](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-skills)
-- ![📜 Certifications](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-certifications)
-- ![🎙️ Seminars & Workshops](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#%EF%B8%8F-seminars--workshops)
-- ![💻 Blockchain Projects](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-blockchain-projects)
-- ![🛠 Tech Stack](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-tech-stack)
-- ![🌐 Contact](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-connect-with-me)
+- [🎓 Education](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-education)
+- [💼 Work Experience](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-work-experience)
+- [🛠 Skills](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-skills)
+- [📜 Certifications](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-certifications)         
+- [🎙️ Seminars & Workshops](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#%EF%B8%8F-seminars--workshops)
+- [💻 Blockchain Projects](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-blockchain-projects)
+- [🛠 Tech Stack](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-tech-stack)
+- [🌐 Contact](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-connect-with-me)
 
 ---
 
