@@ -116,7 +116,7 @@ Skills Certificate
 - **Role:** Validator/Node Operator
 - **Verification Link:** [Dymension Testnet Validator](https://froopyland.explorers.guru/validator/dymvaloper1ew76dnmq0lexd909drctvpkadw00dfk7xn0u2m)
 
-### 3. Celestia
+### 3. Celestia Testnet
 - **Role:** Validator/Node Operator
 - **Verification Link:** [Celestia Validator](https://testnet.celestia.explorers.guru/validator/celestiavaloper1c58x4mfphqz8lvfwvjr75sdcqlx3s92cae4f7l)
 
@@ -124,17 +124,29 @@ Skills Certificate
 - **Role:** Validator/Node Operator
 - **Verification Link:** [Router Testnet Validator](https://testnet.router.explorers.guru/validator/routervaloper19072peeuaauckzdzvqzsgj9sdk9z0jfaalg9l4)
 
-### 5. Kroma
+### 5. Kroma Testnet
 - **Role:** Validator/Node Operator
 - **Verification Link:** [Kroma Validator](https://blockscout.kroma.network/address/0x0F10462845953d90719A78FD12a2d103541D3214)
 
-### 6. Mantra Chain
+### 6. Mantra Chain Testnet 
 - **Role:** Validator/Node Operator
 - **Verification Link:** [Mantra Chain Validator](https://testnet.mantra.explorers.guru/validator/mantravaloper1d85jtwyk6axycqzz6z8n0dsak7t9wdykxv98vp)
 
-### 7. Namada
+### 7. Namada Testnet Pilots
 - **Role:** Validator/Node Operator
 - **Verification Link:** [Namada Pilots Validator](https://forum.namada.net/t/final-scores-for-the-shielded-expedition/859)
+
+### 8. Andromeda Mainnet 
+- **Role:** Validator/Node Operator
+- **Verification Link:** [Andromeda Mainnet Validator](https://andromeda.explorers.guru/validator/andrvaloper1670dvuv348eynr9lsmdrhqu3g7vpmzx9mcxcuy)  
+
+### 9. CrossFi Mainnet 
+- **Role:** Validator/Node Operator
+- **Verification Link:** [CrossFi Mainnet Validator](https://crossfi.explorers.guru/validator/mxvaloper1zjmmzkx4zj5nexd2x7n0uw6t5yjw4er7l0u8qk)
+
+### 10. Nibiru Mainnet 
+- **Role:** Validator/Node Operator
+- **Verification Link:** [Nibiru Mainnet Validator](https://nibiru.explorers.guru/validator/nibivaloper158d3mfde400qfsx3qwjzhnq7qn9v48l734a8hq)
 
 ---
 
