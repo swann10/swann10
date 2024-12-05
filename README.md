@@ -4,11 +4,15 @@ I'm a seasoned professional in the fields of **Financial Services** and **Hospit
 
 ---
 ### 📤 Table of Contents
-- [Education](###🎓Education)
-- [Work Experience](#work-experience)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Certifications](#certifications)
+- ![🎓 Education](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-education)
+- ![💼 Work Experience](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-work-experience)
+- ![🛠 Skills](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-skills)
+- ![📜 Certifications](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-certifications)
+- ![🎙️ Seminars & Workshops](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#%EF%B8%8F-seminars--workshops)
+- ![💻 Blockchain Projects](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-blockchain-projects)
+- ![🛠 Tech Stack](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-tech-stack)
+- ![🌐 Contact](https://github.com/angsahitam10/angsahitam10/blob/main/README.md#-connect-with-me)
+
 ---
 
 ### 🎓 Education
@@ -62,10 +66,10 @@ I'm a seasoned professional in the fields of **Financial Services** and **Hospit
 #### American Academy of Project Management (AAPM) Certification
 - [Certified Marketing Analyst](https://drive.google.com/file/d/1kHoUMW_QA9WIewl-sFYK_A71VIRfeJg8/view?usp=sharing)
 
-## Google Certification
+#### Google Certification
 - [Google Cybersecurity Professional Certificate](https://coursera.org/verify/professional-cert/BEGDXG2M2332)
 
-## HackerRank Certification
+#### HackerRank Certification
 Role Certificate
 - [Frontend Developer](https://www.hackerrank.com/certificates/iframe/9accb9b567d1)
 - [Software Engineer Certificate](https://www.hackerrank.com/certificates/iframe/cfb7eefc841a)
@@ -84,14 +88,14 @@ Skills Certificate
 - [Rest API Certificate](https://www.hackerrank.com/certificates/iframe/ce35c0dae80a)
 - [SQL Certificate](https://www.hackerrank.com/certificates/iframe/7a1cd091a665)
 
-## Linkedin Certification
+#### Linkedin Certification
 - [Business Analysis Foundations Certificate](https://www.linkedin.com/learning/certificates/26628305dae1dc6e85a6e5a4678bb163c001f5cd9bfb9d3074ceca137046a609?trk=share_certificate)
 - [Digital Marketing Foundations Certificate](https://www.linkedin.com/learning/certificates/47fda3be0d7731f24a7743698e497b061f77072e080cc0abb7060cc03393ae6c?trk=share_certificate)
 
-## Microsoft Certification
+#### Microsoft Certification
 - [Microsoft Public Relations and Communications Associate Professional Certificate](https://coursera.org/verify/specialization/SZGNE0I8VY3Y)
 
-## Shanghai Jiao Tong University Certification
+#### Shanghai Jiao Tong University Certification
 - [Mandarin Chinese Specialization Certificate](https://coursera.org/verify/specialization/SZGNE0I8VY3Y)
 
 ---
