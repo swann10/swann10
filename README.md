@@ -59,7 +59,7 @@ I'm a seasoned professional in the fields of **Financial Services** and **Hospit
 ---
 
 ### 📜 Certifications
-## American Academy of Project Management (AAPM) Certification
+#### American Academy of Project Management (AAPM) Certification
 - [Certified Marketing Analyst](https://drive.google.com/file/d/1kHoUMW_QA9WIewl-sFYK_A71VIRfeJg8/view?usp=sharing)
 
 ## Google Certification
