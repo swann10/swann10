@@ -3,6 +3,13 @@
 I'm a seasoned professional in the fields of **Financial Services** and **Hospitality**, with a strong focus on **Marketing Management**. Currently, I'm enhancing my skills and experience in various roles, and am excited about new opportunities in Marketing and Blockchain Development.
 
 ---
+### 📤 Table of Contents
+- [Education](###🎓Education)
+- [Work Experience](#work-experience)
+- [Skills](#skills)
+- [Projects](#projects)
+- [Certifications](#certifications)
+---
 
 ### 🎓 Education
 - **Mercu Buana University**  
