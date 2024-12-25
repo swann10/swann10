@@ -36,7 +36,7 @@ I'm a seasoned professional in the fields of **Financial Services** and **Hospit
 
 #### Nvidia Omniverse – Yerevan, Armenia *(Remote)*  
 **Security Operations Engineer**  
-*Jul 2022 – Sept 2024*  
+*Jul 2022 – Nov 2024*  
 - Monitored network activities to ensure platform security.
 - Conducted vulnerability assessments and managed security tools.
 
